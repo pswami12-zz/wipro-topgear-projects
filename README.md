@@ -1,2 +1,2 @@
-# wipro-topgear-projects
+# Wipro Topgear Projects
 Topgear project repository for submission
